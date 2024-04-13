@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "4f94870061470d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e2292c04de9c7c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14ed35ceee6a1bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/0 Leetcode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3e83fb7332d8ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "458ad9e44de01710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b82eefa2abda44de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0998b86eee7ee922",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec6f8ed3133a74b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b0c2ac428e9bfe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5da0eb2460bc56c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e70e86f086cd405",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/0 Leetcode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f874048f04ef5c3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/0 Leetcode.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b80141c3287e3cee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b8ce2aa150f8824",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/0 Leetcode.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14ed35ceee6a1bd6",
+  "lastOpenFiles": [
+    "Z-Core/stack.md",
+    "Templates/0 Leetcode.md",
+    "Welcome.md",
+    "Z-Core",
+    "Files",
+    "Templates/Untitled.md",
+    "Templates"
+  ]
+}
