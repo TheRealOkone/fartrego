@@ -148,13 +148,20 @@
   },
   "active": "14ed35ceee6a1bd6",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
+    "Z-Core/Leetcode 125 Valid Palindrome.md",
+    "Z-Core/Leetcode 217 Contains Duplicate.md",
+    "Z-Core/Leetcode 242 Valid Anagram.md",
+    "Z-Core/Leetcode 1 Two Sum.md",
+    "Z-Core/Leetcode 49 Group Anagrams.md",
+    "Z-Core/Leetcode 347 Top K Frequent Elements.md",
+    "Z-Core/Leetcode 238 Product of Array Except Self.md",
+    "Z-Core/Leetcode 15 3Sum.md",
+    "Z-Core/Leetcode 20 Valid Parentheses.md",
+    "Z-Core/Leetcode 150 Evaluate Reverse Polish Notation.md",
+    "Z-Core/Leetcode 155 Min Stack.md",
+    "Z-Core/Leetcode 22 Generate Parentheses.md",
+    "Z-Core/Leetcode 167 Two Sum II.md",
     "Files/0 Leetcode.md",
->>>>>>> 449ec91 (init)
->>>>>>> 23b5826 (init)
     "Z-Core/stack.md",
     "Templates/0 Leetcode.md",
     "Welcome.md",
