@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Z-Core",
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "alwaysUpdateLinks": true
 }

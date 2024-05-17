@@ -11,3 +11,4 @@ ___
 ___
 ### Links
 - [[Java Collection Framework]]
+- [Javadoc](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html)

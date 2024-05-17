@@ -5,5 +5,8 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "Inter",
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "justify"
+  ]
 }
