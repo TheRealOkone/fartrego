@@ -3,7 +3,7 @@ Tags: #z
 
 ___
 # Решение
-### 1) [[Heap/Priority Queue]]
+### 1) [[Heap OR Priority Queue]]
 Сложность: `O(n)`
 Память: `O(n)`
 #### Объяснение

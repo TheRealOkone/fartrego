@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f53d80492c7bc0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-Core/Big-O complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8a9ecccdfb976cd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Leetcode 973 K Closest Points to Origin.md",
+                "file": "Z-Core/Quick Select.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d65a46d42188cfa",
+            "id": "4107ba965a117762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Tries (Prefix Tree).md",
+                "file": "Z-Core/Leetcode 53 Maximum Subarray.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Core/Leetcode 973 K Closest Points to Origin.md",
+                "file": "Z-Core/Leetcode 53 Maximum Subarray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Core/Leetcode 973 K Closest Points to Origin.md",
+                "file": "Z-Core/Leetcode 53 Maximum Subarray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Core/Leetcode 973 K Closest Points to Origin.md"
+                "file": "Z-Core/Leetcode 53 Maximum Subarray.md"
               }
             }
           }
@@ -186,35 +174,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a9ecccdfb976cd9",
+  "active": "4107ba965a117762",
   "lastOpenFiles": [
-    "Z-Core/Leetcode 1046 Last Stone Weight.md",
+    "Z-Core/Leetcode 55 Jump Game.md",
+    "Z-Core/Leetcode 53 Maximum Subarray.md",
+    "Z-Core/Greedy.md",
+    "Z-Core/Dynamic Programming.md",
+    "Z-Core/Leetcode 139 Word Break.md",
+    "Z-Core/Kadane's algorythm.md",
+    "Z-Core/Leetcode 268 Missing Number.md",
+    "Z-Core/Leetcode 190 Reverse Bits.md",
+    "Z-Core/Bit Manipulation.md",
+    "Z-Core/Leetcode 215 Kth Largest Element in an Array.md",
+    "Z-Core/Quick Select.md",
+    "Z-Core/Tries (Prefix Tree).md",
+    "Z-Core/Big-O complexity.md",
+    "Z-Core/Java Big O.md",
     "Z-Core/Leetcode 973 K Closest Points to Origin.md",
+    "Files/Pasted image 20240611100447.png",
+    "Z-Core/Heap OR Priority Queue.md",
+    "Z-Core/Java как конвертировать массив примитивов в коллекцию.md",
+    "Z-Core/Leetcode 1046 Last Stone Weight.md",
     "Z-Core/Leetcode 703 Kth Largest Element in a Stream.md",
-    "Heap/Priority Queue.md",
     "Heap",
     "Z-Core/Java Collection Framework.md",
     "Z-Core/Leetcode 739 Daily Temperatures.md",
     "Z-Core/Stack.md",
     "Z-Core/Leetcode 155 Min Stack.md",
-    "Z-Core/Leetcode 139 Word Break.md",
     "Z-Core/Memoization.md",
     "Z-Core/Leetcode 91 Decode Ways.md",
-    "Z-Core/Tries (Prefix Tree).md",
     "Z-Core/Dynamic Programming tricks.md",
-    "Z-Core/Dynamic Programming.md",
-    "Z-Core/Leetcode 208 Implement Trie (Prefix Tree).md",
-    "Z-Core/Leetcode 15 3Sum.md",
-    "Z-Core/00 TODO.md",
-    "Z-Core/().md",
-    "Z-Core/Leetcode 152 Maximum Product Subarray.md",
-    "Z-Core/Backtracking tricks.md",
-    "Z-Core/HashMap.md",
-    "Z-Core/Leetcode 198 House Robber.md",
-    "Z-Core/Kadane's algorythm.md",
-    "Z-Core/Breadth-first search (BFS).md",
-    "Z-Core/Leetcode 322 Coin Change.md",
-    "Z-Core/Sliding window.md",
     "Files/Leetcode 322 img.png",
     "Files/Leetcode 78 img.png",
     "Files/Leetcode 78 bitmask.png",

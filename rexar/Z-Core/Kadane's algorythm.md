@@ -3,7 +3,7 @@ Tags: #z
 
 ___
 #
-Алгоритм использует с [[Sliding window]]
+Алгоритм используют с [[Sliding window]]
 
 ___
 ### Zero-Links
