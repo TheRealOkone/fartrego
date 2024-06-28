@@ -7,6 +7,7 @@
   "monospaceFontFamily": "Inter",
   "baseFontSize": 24,
   "enabledCssSnippets": [
-    "justify"
+    "justify",
+    "css"
   ]
 }
