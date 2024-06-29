@@ -2,7 +2,10 @@
 Tags: #z
 
 ___
-#
+#z 
+# Битовые операторы
+
+![[bitwise-operator.png]]
 
 ___
 ### Zero-Links

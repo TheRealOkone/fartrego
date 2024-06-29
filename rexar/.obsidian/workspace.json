@@ -25,20 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Arrays & Hashing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a664c44f4eb13f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-Core/Tinkoff junior ex 2.md",
+                "file": "Z-Core/Tries (Prefix Tree).md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +63,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -127,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Core/Arrays & Hashing.md",
+                "file": "Z-Core/Tries (Prefix Tree).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Core/Arrays & Hashing.md",
+                "file": "Z-Core/Tries (Prefix Tree).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,16 +154,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Core/Arrays & Hashing.md"
+                "file": "Z-Core/Tries (Prefix Tree).md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,43 +177,42 @@
   },
   "active": "4107ba965a117762",
   "lastOpenFiles": [
+    "Files/Trie.png",
+    "Z-Core/Tries (Prefix Tree).md",
     "Z-Core/00 TODO.md",
-    "Z-Core/Arrays & Hashing.md",
+    "Z-Core/Heap OR Priority Queue.md",
+    "Z-Core/Java Big O.md",
+    "Z-Core/Java Collection Framework.md",
+    "Z-Core/Kadane's algorythm.md",
+    "Z-Core/Big-O complexity.md",
+    "Files/PriorityQueueConstructors.png",
+    "Files/Heap-as-array.png",
+    "Files/Heap-as-array.svg.png",
+    "Files/maximum-subarray-sum.png",
+    "Files/difficulty comparison big O.png",
+    "Z-Core/Tinkoff junior ex 2.md",
     "Z-Core/Breadth-first search (BFS).md",
+    "Z-Core/Depth-first search (DFS).md",
+    "Files/Depth-First-Search.gif",
+    "Files/Breadth-First-Search-Algorithm.gif",
+    "Z-Core/Bit Manipulation.md",
+    "Files/bitwise-operator.png",
+    "Z-Core/Comparator java.md",
+    "Z-Core/Dynamic Programming.md",
+    "Z-Core/Collection.md",
+    "Files/Pasted image 20240611100447.png",
+    "Z-Core/Backtracking tricks.md",
+    "Z-Core/Arrays & Hashing.md",
     "Z-Core/00.md",
     "Z-Core/00_TODO.md",
-    "Z-Core/Depth-first search (DFS).md",
-    "Z-Core/Collection.md",
-    "Z-Core/Bit Manipulation.md",
-    "Z-Core/Big-O complexity.md",
     "Z-Core/Backtracking.md",
     "Z-Core/Array is sorted tricks.md",
-    "Z-Core/Java Big O.md",
     "Z-Core/Leetcode 20 Valid Parentheses.md",
     "Z-Core/Tree tricks.md",
     "Z-Core/test.md",
     "Z-Core/Tinkoff junior ex 4.md",
     "Templates/0 New Note.md",
-    "Files/Leetcode 322 img.png",
-    "Z-Core/Tinkoff junior ex 3.md",
-    "Z-Core/Tinkoff junior ex 2.md",
-    "Z-Core/Quick Select.md",
-    "Files/Tinkoff junior ex 2 img.png",
-    "Z-Core/Задачи от Tinkoff для Junior Java developers.md",
-    "Z-Core/Leetcode 846 Hand of Straights.md",
-    "Files/Leetcode 45 img.png",
-    "Z-Core/Java Collection Framework.md",
-    "Z-Core/Comparator java.md",
-    "Z-Core/Heap OR Priority Queue.md",
-    "Z-Core/Leetcode 215 Kth Largest Element in an Array.md",
-    "Files/Pasted image 20240611100447.png",
     "Heap",
-    "Files/Leetcode 78 img.png",
-    "Files/Leetcode 78 bitmask.png",
-    "Files/Leetcode 39 neetcode.png",
-    "Files/difficulty comparison big O.png",
-    "Files/Leetcode 230 image.png",
-    "Files/dfs img.png",
     "Z-Core",
     "Files",
     "Templates"
