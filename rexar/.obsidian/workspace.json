@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Quick Select.md",
+                "file": "Z-Core/Backtracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Tries (Prefix Tree).md",
+                "file": "Z-Core/Java Big O.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "8b0c2ac428e9bfe1",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Core/Tries (Prefix Tree).md",
+                "file": "Z-Core/Backtracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Core/Tries (Prefix Tree).md",
+                "file": "Z-Core/Backtracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Core/Tries (Prefix Tree).md"
+                "file": "Z-Core/Backtracking.md"
               }
             }
           }
@@ -175,23 +174,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4107ba965a117762",
+  "active": "8a9ecccdfb976cd9",
   "lastOpenFiles": [
-    "Files/Trie.png",
-    "Z-Core/Tries (Prefix Tree).md",
-    "Z-Core/00 TODO.md",
-    "Z-Core/Heap OR Priority Queue.md",
+    "Z-Core/Quick Select.md",
     "Z-Core/Java Big O.md",
     "Z-Core/Java Collection Framework.md",
-    "Z-Core/Kadane's algorythm.md",
+    "Z-Core/Data Structures/SortedMap.md",
     "Z-Core/Big-O complexity.md",
+    "Z-Core/BucketSort.md",
+    "Z-Core/Breadth-first search (BFS).md",
+    "Z-Core/Data Structures/Set.md",
+    "Z-Core/Data Structures/HashMap.md",
+    "Z-Core/Data Structures/Collection.md",
+    "Z-Core/Data Structures/HashSet.md",
+    "Z-Core/00 Algorithm tricks.md",
+    "Z-Core/Data Structures",
+    "Z-Core/Array is sorted tricks.md",
+    "Files/Pasted image 20240611100447.png",
+    "Z-Core/Tries (Prefix Tree).md",
+    "Files/Trie.png",
+    "Z-Core/00 TODO.md",
+    "Z-Core/Heap OR Priority Queue.md",
+    "Z-Core/Kadane's algorythm.md",
     "Files/PriorityQueueConstructors.png",
     "Files/Heap-as-array.png",
     "Files/Heap-as-array.svg.png",
     "Files/maximum-subarray-sum.png",
     "Files/difficulty comparison big O.png",
     "Z-Core/Tinkoff junior ex 2.md",
-    "Z-Core/Breadth-first search (BFS).md",
     "Z-Core/Depth-first search (DFS).md",
     "Files/Depth-First-Search.gif",
     "Files/Breadth-First-Search-Algorithm.gif",
@@ -199,19 +209,10 @@
     "Files/bitwise-operator.png",
     "Z-Core/Comparator java.md",
     "Z-Core/Dynamic Programming.md",
-    "Z-Core/Collection.md",
-    "Files/Pasted image 20240611100447.png",
     "Z-Core/Backtracking tricks.md",
     "Z-Core/Arrays & Hashing.md",
     "Z-Core/00.md",
     "Z-Core/00_TODO.md",
-    "Z-Core/Backtracking.md",
-    "Z-Core/Array is sorted tricks.md",
-    "Z-Core/Leetcode 20 Valid Parentheses.md",
-    "Z-Core/Tree tricks.md",
-    "Z-Core/test.md",
-    "Z-Core/Tinkoff junior ex 4.md",
-    "Templates/0 New Note.md",
     "Heap",
     "Z-Core",
     "Files",
