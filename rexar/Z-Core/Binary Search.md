@@ -15,6 +15,40 @@ ___
 3. Поиск сводится к тому, что вновь определяется значение серединного элемента в выбранной половине и сравнивается с ключом.
 4. Процесс продолжается до тех пор, пока не будет найден элемент со значением ключа или не станет пустым интервал для поиска.
 
+### Модификации
+```java
+private int findFirst(int[] nums, int target){
+    int idx = -1;
+    int l = 0;
+    int r = nums.length - 1;
+    while(l <= r){
+        int mid = l + (r-l) / 2;
+        if(nums[mid] >= target){
+            r = mid - 1;
+        }else{
+            l = mid + 1;
+        }
+        if(nums[mid] == target) idx = mid;
+    }
+    return idx;
+}
+
+private int findLast(int[] nums, int target){
+    int idx = -1;
+    int l = 0;
+    int r = nums.length - 1;
+    while(l <= r){
+        int mid = l + (r-l) / 2;
+        if(nums[mid] <= target){
+            l = mid + 1;
+        }else{
+            r = mid - 1;
+        }
+        if(nums[mid] == target) idx = mid;
+    }
+    return idx;
+}
+```
 ___
 ### Zero-Links
 - [[00 Sorting]]

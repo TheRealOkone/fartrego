@@ -5,6 +5,7 @@ ___
 #
 ```java
 Comparator.naturalOrder()
+Comparator.reverseOrder()
 ```
 ___
 ### Zero-Links

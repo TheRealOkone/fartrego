@@ -9,7 +9,7 @@ ___
 ![[dfs img.png]]
 ___
 ### Zero-Links
-- 
+- [[00 TODO]] Пример кода
 
 ___
 ### Links

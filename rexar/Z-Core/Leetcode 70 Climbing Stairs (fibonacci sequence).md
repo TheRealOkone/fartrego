@@ -3,7 +3,7 @@ Tags: #z
 
 ___
 # Решение
-### 1) [[Dynamic Programming]]
+### 1) [[Dynamic Programming]] && Space Optimization
 Сложность: `O(n)`
 Память: `O(1)`
 #### Объяснение

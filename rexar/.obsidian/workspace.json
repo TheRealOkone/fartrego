@@ -13,25 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Backtracking.md",
+                "file": "Z-Core/Quick Select.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4107ba965a117762",
+            "id": "c6b1a67395a81dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Core/Java Big O.md",
+                "file": "Z-Core/Java Collection Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8e71a68fdb38394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Core/Moore Voting Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "514d47f61c33b056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Core/Leetcode 905 Sort Array By Parity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -43,7 +68,7 @@
       {
         "id": "458ad9e44de01710",
         "type": "tabs",
-        "dimension": 79.93981945837513,
+        "dimension": 57.184185149469634,
         "children": [
           {
             "id": "b82eefa2abda44de",
@@ -61,8 +86,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "pivot",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -83,7 +108,7 @@
       {
         "id": "c30c7a88a4864d74",
         "type": "tabs",
-        "dimension": 20.060180541624874,
+        "dimension": 42.815814850530366,
         "children": [
           {
             "id": "893f82088b11998b",
@@ -97,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 505.5
   },
   "right": {
     "id": "8b0c2ac428e9bfe1",
@@ -113,11 +138,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-Core/Backtracking.md",
+                "file": "Z-Core/Leetcode 905 Sort Array By Parity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -130,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-Core/Backtracking.md",
+                "file": "Z-Core/Leetcode 905 Sort Array By Parity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Core/Backtracking.md"
+                "file": "Z-Core/Leetcode 905 Sort Array By Parity.md"
               }
             }
           }
@@ -161,58 +186,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "templater-obsidian:Templater": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8a9ecccdfb976cd9",
+  "active": "514d47f61c33b056",
   "lastOpenFiles": [
-    "Z-Core/Quick Select.md",
+    "Z-Core/Leetcode 104 Maximum Depth of Binary Tree.md",
+    "Z-Core/Leetcode 905 Sort Array By Parity.md",
+    "Z-Core/Depth-first search (DFS).md",
+    "Z-Core/Leetcode 121 Best Time to Buy and Sell Stock.md",
+    "Z-Core/Kadane's algorythm.md",
     "Z-Core/Java Big O.md",
     "Z-Core/Java Collection Framework.md",
-    "Z-Core/Data Structures/SortedMap.md",
     "Z-Core/Big-O complexity.md",
-    "Z-Core/BucketSort.md",
-    "Z-Core/Breadth-first search (BFS).md",
-    "Z-Core/Data Structures/Set.md",
+    "Z-Core/Moore Voting Algorithm.md",
+    "Z-Core/Leetcode 49 Group Anagrams.md",
+    "Z-Core/Leetcode 1672 Richest Customer Wealth.md",
+    "Z-Core/Leetcode 1539 Kth Missing Positive Number.md",
+    "Z-Core/Binary Search.md",
+    "Files/Tinkoff junior ex 2 img.png",
+    "Z-Core/Quick Select.md",
+    "Templates/0 Leetcode.md",
+    "Z-Core/Leetcode 268 Missing Number.md",
+    "Z-Core/Leetcode 217 Contains Duplicate.md",
+    "Z-Core/Leetcode 242 Valid Anagram.md",
     "Z-Core/Data Structures/HashMap.md",
-    "Z-Core/Data Structures/Collection.md",
-    "Z-Core/Data Structures/HashSet.md",
-    "Z-Core/00 Algorithm tricks.md",
-    "Z-Core/Data Structures",
-    "Z-Core/Array is sorted tricks.md",
-    "Files/Pasted image 20240611100447.png",
-    "Z-Core/Tries (Prefix Tree).md",
-    "Files/Trie.png",
-    "Z-Core/00 TODO.md",
-    "Z-Core/Heap OR Priority Queue.md",
-    "Z-Core/Kadane's algorythm.md",
-    "Files/PriorityQueueConstructors.png",
-    "Files/Heap-as-array.png",
-    "Files/Heap-as-array.svg.png",
-    "Files/maximum-subarray-sum.png",
-    "Files/difficulty comparison big O.png",
+    "Z-Core/Leetcode 169.md",
+    "Z-Core/Leetcode 1281 Subtract the Product and Sum of Digits of an Integer.md",
+    "Z-Core/Leetcode 283 Move Zeroes.md",
+    "Z-Core/Breadth-first search (BFS).md",
+    "Z-Core/Tree tricks.md",
+    "Z-Core/Fast and Slow Pointers OR Floyd's Cycle-Finding Algorithm.md",
+    "Files/dfs img.png",
     "Z-Core/Tinkoff junior ex 2.md",
-    "Z-Core/Depth-first search (DFS).md",
-    "Files/Depth-First-Search.gif",
-    "Files/Breadth-First-Search-Algorithm.gif",
-    "Z-Core/Bit Manipulation.md",
+    "Files/Leetcode 45 img.png",
+    "Files/Pasted image 20240724202625.png",
+    "Files/PriorityQueueConstructors.png",
+    "Files/Leetcode 4 Median of Two Sorted Arrays even median finding img.png",
+    "Files/Leetcode 4 Median of Two Sorted Arrays partitions correct img.png",
+    "Z-Core/Data Structures",
+    "Files/maximum-subarray-sum.png",
     "Files/bitwise-operator.png",
-    "Z-Core/Comparator java.md",
-    "Z-Core/Dynamic Programming.md",
-    "Z-Core/Backtracking tricks.md",
-    "Z-Core/Arrays & Hashing.md",
-    "Z-Core/00.md",
-    "Z-Core/00_TODO.md",
+    "Files/Trie.png",
     "Heap",
     "Z-Core",
     "Files",
